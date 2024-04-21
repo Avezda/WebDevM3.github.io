@@ -1,6 +1,3 @@
-<script src="/script.js"></script>
-
-
 document.addEventListener('DOMContentLoaded', function () {
     const form = document.getElementById('contact-form');
 
